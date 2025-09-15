@@ -1,2 +1,21 @@
-# todo-app
-A simple, interactive To-Do List web application built with HTML, CSS, and JavaScript. It allows users to add, check/uncheck, delete, and persist tasks using LocalStorage, so tasks remain saved even after refreshing the page.
+# 📝 To-Do List Web App
+
+A simple and interactive task manager built using **HTML, CSS, and JavaScript**.
+Tasks are stored in **localStorage**, so they remain even after refreshing the page.
+
+🔗 **Live Demo:** [Click Here](https://hitesh1236.github.io/todo-app/)
+
+---
+
+## 🚀 Features
+- ➕ Add and delete tasks
+- ✅ Mark tasks as completed / uncompleted
+- 💾 Persistent storage using localStorage
+- 🖱️ Simple and responsive interface
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5** – Structure
+- **CSS3** – Styling
+- **JavaScript (Vanilla)** – Logic & LocalStorage
